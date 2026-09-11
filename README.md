@@ -19,3 +19,8 @@ Ping the loopback interface.
 ### lmgtfy
 
 google stuff, you can pass argument or just run the script. 
+
+
+### lmbingt4y
+
+bing
