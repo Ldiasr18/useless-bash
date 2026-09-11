@@ -26,7 +26,7 @@ else
     query="$*"
 fi
 
-xdg-open https://www.bing.com/search?q=$(urlencoder "$query")"
+xdg-open "https://www.bing.com/search?q=$(urlencoder "$query")"
 
 
 
